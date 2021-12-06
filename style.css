@@ -1,0 +1,15 @@
+.redColoredClass {
+    color: red;
+}
+
+.strongCoffee {
+    color: rgb(206, 10, 10)
+}
+
+.normalCoffee {
+    color: rgb(6, 100, 22)
+}
+
+.weakCoffee {
+    color: rgb(34, 12, 105)
+}
